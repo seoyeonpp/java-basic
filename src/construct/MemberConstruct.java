@@ -26,5 +26,4 @@ public class MemberConstruct {
         this.grade = grade;
     }
 
-
 }
